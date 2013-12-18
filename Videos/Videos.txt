@@ -1,0 +1,7 @@
+Dateiname: Cryptoparty_Heidelberg.mp4
+Inhalt: Die Aufzeichnung einer Datenschutzschulung in Heidelberg.
+Youtube: https://www.youtube.com/watch?v=ESirhqNEvxo
+
+Dateiname: Mails_windows.mp4
+Inhalt: Eine Videoanleitung vom Download der Software bis zum Versand der ersten verschlüsselten Mail mit Windows und Thunderbird.
+Youtube: https://www.youtube.com/watch?v=MLBmoQdYgaU
