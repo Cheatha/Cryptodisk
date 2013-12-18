@@ -1,7 +1,7 @@
 Hier die Software-Installationsdateien einfügen. Lizenzbedinungen nicht ignorieren!
 
 Name: GPG4Win
-Version: 2.1.1
+Version: 2.2.1
 Hersteller-Link: http://www.gpg4win.de
 Download-Link: http://www.gpg4win.de/download-de.html
 Lizenz: GPL http://www.gpg4win.de/license-de.html
@@ -15,14 +15,14 @@ Lizenz: GNU General Public License version 2.0 (GPLv2)
 Quellcode: https://www.keepassx.org/downloads/
 
 Name: Thunderbird
-Version: 17.0.8
+Version: 24.2.0
 Hersteller-Link: http://www.mozilla.org/de/thunderbird/
-Download-Link: https://download.mozilla.org/?product=thunderbird-17.0.8&os=win&lang=de
+Download-Link: https://download.mozilla.org/?product=thunderbird-24.2.0&os=win&lang=de
 Lizenz: MPL2 http://www.mozilla.org/MPL/2.0/
-Quellcode: http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/17.0.8/source/thunderbird-17.0.8.source.tar.bz2
+Quellcode: http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/24.2.0/source/thunderbird-24.2.0.source.tar.bz2
 
 Name: Enigmail
-Version: 1.5.2
+Version: 1.6
 Hersteller-Link: http://www.enigmail.net
 Download-Link: http://www.enigmail.net/download/index.php
 Lizenz: GPL
