@@ -47,3 +47,10 @@ Version: 0.22
 Hersteller-Link: https://tails.boum.org
 Download-Link: https://tails.boum.org/download/index.de.html
 Lizenz: GPL https://tails.boum.org/doc/about/license/index.de.html
+
+Name: VLC
+Version: 2.1.2
+Hersteller-Link: http://www.videolan.org/
+Download-Link: http://www.videolan.org/vlc/
+Lizenz: GPL https://tails.boum.org/doc/about/license/index.de.html
+Quellcode: http://www.videolan.org/vlc/download-sources.html
