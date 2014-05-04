@@ -15,11 +15,11 @@ Lizenz: GNU General Public License version 2.0 (GPLv2)
 Quellcode: https://www.keepassx.org/downloads/
 
 Name: Thunderbird
-Version: 24.4.0
+Version: 24.5.0
 Hersteller-Link: http://www.mozilla.org/de/thunderbird/
-Download-Link: https://download.mozilla.org/?product=thunderbird-24.4.0&os=osx&lang=de
+Download-Link: https://download.mozilla.org/?product=thunderbird-24.5.0&os=osx&lang=de
 Lizenz: MPL2 http://www.mozilla.org/MPL/2.0/
-Quellcode: http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/24.4.0/source/thunderbird-24.4.0.source.tar.bz2
+Quellcode: http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/24.5.0/source/thunderbird-24.5.0.source.tar.bz2
 
 Name: Enigmail
 Version: 1.6
