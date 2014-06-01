@@ -5,3 +5,7 @@ Youtube: https://www.youtube.com/watch?v=ESirhqNEvxo
 Dateiname: Mails_windows.mp4
 Inhalt: Eine Videoanleitung vom Download der Software bis zum Versand der ersten verschlüsselten Mail mit Windows und Thunderbird.
 Youtube: https://www.youtube.com/watch?v=MLBmoQdYgaU
+
+Dateiname: mail_mac.mp4
+Inhalt: Eine Videoanleitung vom Download der Software bis zum Versand der ersten verschlüsselten Mail mit Mac OS X und der Mail.app.
+Youtube: https://www.youtube.com/watch?v=EUwAOnWmU2g
